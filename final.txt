@@ -1,0 +1,18 @@
+void main() {
+	int x = 5;
+	int y = 2;
+	y = y^2;
+	cout << y << endl;
+	if((x^2) > 10){
+		cout << x << endl;
+	} else {
+		cout << 0 << endl;
+	}
+
+	//int y = 100;
+	//do{
+		//y /= 2;
+	//	y--;
+	//	cout << y << endl;
+	//} while(y > 50);
+}

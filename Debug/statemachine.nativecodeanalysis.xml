@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DEFECTS>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>c:\users\craft\dropbox\programming\senior year\compiler\compiler\</FILEPATH>
+      <FILENAME>statemachine.cpp</FILENAME>
+      <LINE>199</LINE>
+      <COLUMN>12</COLUMN>
+    </SFA>
+    <DEFECTCODE>6330</DEFECTCODE>
+    <DESCRIPTION>'char' passed as _Param_(1) when 'unsigned char' is required in call to 'isalpha'.</DESCRIPTION>
+    <FUNCTION>StateMachine::UpdateState</FUNCTION>
+    <DECORATED>?UpdateState@StateMachine@@QAE?AW4MachineState@@DAAW4TokenType@@@Z</DECORATED>
+    <FUNCLINE>197</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>c:\users\craft\dropbox\programming\senior year\compiler\compiler\</FILEPATH>
+      <FILENAME>statemachine.cpp</FILENAME>
+      <LINE>200</LINE>
+      <COLUMN>12</COLUMN>
+    </SFA>
+    <DEFECTCODE>6330</DEFECTCODE>
+    <DESCRIPTION>'char' passed as _Param_(1) when 'unsigned char' is required in call to 'isdigit'.</DESCRIPTION>
+    <FUNCTION>StateMachine::UpdateState</FUNCTION>
+    <DECORATED>?UpdateState@StateMachine@@QAE?AW4MachineState@@DAAW4TokenType@@@Z</DECORATED>
+    <FUNCLINE>197</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>c:\users\craft\dropbox\programming\senior year\compiler\compiler\</FILEPATH>
+      <FILENAME>statemachine.cpp</FILENAME>
+      <LINE>201</LINE>
+      <COLUMN>12</COLUMN>
+    </SFA>
+    <DEFECTCODE>6330</DEFECTCODE>
+    <DESCRIPTION>'char' passed as _Param_(1) when 'unsigned char' is required in call to 'isspace'.</DESCRIPTION>
+    <FUNCTION>StateMachine::UpdateState</FUNCTION>
+    <DECORATED>?UpdateState@StateMachine@@QAE?AW4MachineState@@DAAW4TokenType@@@Z</DECORATED>
+    <FUNCLINE>197</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+</DEFECTS>

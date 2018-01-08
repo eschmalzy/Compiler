@@ -1,0 +1,35 @@
+void main()
+{
+	int n = 454;
+	cout << n << endl;
+	int original = n;
+	int i = 555;
+	while (i <= n)
+	{
+		while (n%i == 0)
+		{
+			if (i != original){
+				cout << i << endl;
+			}
+			n /= i;
+		}
+		i += 2;
+	}
+	if (i > original) {
+		cout << (0-1) << endl;
+	}
+	cout << n << endl;
+
+	int x;
+	int y;
+	x = 5;
+	y = 6;
+	{
+	int x;
+	x = 10;
+	y = 11;
+	cout << x << y << endl;
+	}
+	cout << x << y << endl;
+} 
+//eof
